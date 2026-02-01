@@ -595,10 +595,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+**SAHIL KUMAR**
+- LinkedIn: www.linkedin.com/in/sahil-kumar-cloud
+- GitHub: https://github.com/Sahilx987
+- Email: Sahila7mp@gmail.com
 
 ---
 
@@ -615,8 +615,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or run into issues:
 
 1. Check the [Troubleshooting Guide](docs/10-troubleshooting.md)
-2. Open an [Issue](https://github.com/yourusername/aws-ha-webapp/issues)
-3. Contact me on [LinkedIn](https://linkedin.com/in/yourprofile)
+2. Open an [Issue](https://github.com/Sahilx987/aws-ha-webapp/issues)
+3. Contact me on [www.linkedin.com/in/sahil-kumar-cloud)
 
 ---
 
