@@ -1,0 +1,60 @@
+# AWS Credentials and Secrets
+*.pem
+*.key
+.env
+.env.local
+.env.production
+secrets.json
+credentials.json
+
+# AWS CloudFormation outputs
+cloudformation-outputs.json
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Node modules (if using any Node.js tools)
+node_modules/
+
+# Python virtual environment (if using Python scripts)
+venv/
+env/
+__pycache__/
+*.pyc
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Configuration files with sensitive data
+config.local.php
+database.local.php
+
+# Don't commit actual RDS endpoints or passwords
+user-data-filled.sh
